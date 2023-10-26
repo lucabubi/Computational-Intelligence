@@ -13,4 +13,4 @@ READMEs in each subfolder state the workflow done.
 ## Collaborations
 I worked along with:
 - [Greco Lorenzo](https://github.com/loregrc) - s306112
-- Allegra Giuseppe Roberto - s305063
+- [Allegra Giuseppe Roberto](https://github.com/AllegraRoberto) - s305063
