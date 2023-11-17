@@ -9,6 +9,8 @@ READMEs in each subfolder state the workflow done.
 - Labs
   - Lab01
     - A*.ipynb
+  - Lab02
+    - Nim.ipynb
 
 ## Collaborations
 I worked along with:
