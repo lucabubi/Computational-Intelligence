@@ -89,6 +89,6 @@ The percentage of won games is: 40.6%
 
 As you can see, it quickly surpassed the 40% winning threshold, only to experience a relapse. Unfortunately, in this simulation, it did not exceed a 41% win rate. However, the best player performed very well against Gabriele's strategy and the random strategy, achieving 'only' a 40.6% win rate in the rematch against the optimal strategy. During some tests, we recorded values even higher than 45%. What a pity, maybe it was tired from all the previous games...
 
-
-
-
+## Peer Review Done
+- [Fekri Farisan s308066](https://github.com/Farisanfekri/Computational-Intelligence/issues/5)
+- [Iacobone Nicolò s317025](https://github.com/NicoloIacobone/Computational_Intelligence/issues/2)
