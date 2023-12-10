@@ -51,3 +51,7 @@ After various tests with different evolutionary strategies that aimed to minimiz
 As regards the number of fitness calls, since it's not always true that a greater number of population and generations necessarily corresponds to a higher best fitness, it can be said that a greater number of fitness calls does not necessarily correspond to a greater best fitness. This implies that achieving high best fitness values is possible even with a relatively low number of fitness calls.
 
 As regards the problems, increasing the instance of the problem worsens the best fitness; since the maximum values ​​of population and generations are not reached, the number of fitness calls decreases as the instance of the problem increases.
+
+## Peer Review Done
+- [Dardanello Leonardo s319060](https://github.com/LeoDardanello/computational_intelligence/issues/7)
+- [Iannielli Angelo s317887](https://github.com/AngeloIannielli/polito-computational-intelligence-23/issues/7)
