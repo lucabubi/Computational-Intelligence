@@ -26,7 +26,7 @@ The *mutate* function takes an individual represented as a sequence of binary va
 For each bit in the individual, there is a probability *(MUTATION_RATE)* that the bit will be flipped: from 0 to 1 or vice versa.
 
 ## Simulation
-The simulation tests the possible configurations of parameters *(POPULATION_SIZE,MUTATION_RATE,GENERATIONS,ELITISM_PERCENTAGE)* to search for the optimal setup that yields the best solution for each problem.
+The simulation tests the possible configurations of parameters *(POPULATION_SIZE, MUTATION_RATE, GENERATIONS, ELITISM_PERCENTAGE)* to search for the optimal setup that yields the best solution for each problem.
 
 Refer to the file ***output.md*** for the results printed during the execution of the algorithm.
 
