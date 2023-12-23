@@ -1,4 +1,4 @@
-# Lab 3
+# Lab 03
 
 ## Genome & Evolutionary Strategy
 The code implements an evolutionary algorithm to solve an optimization problem.  
