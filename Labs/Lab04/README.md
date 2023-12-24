@@ -1,6 +1,13 @@
 # Lab 04
 ⚠️ We assumed that X always moves first. This information can be useful as a key for interpretation and understanding of some experiments.
 
+- [Objectives](#objectives)
+- [Training Phase](#training-phase-for-both-x-and-o)
+- [AI using X](#ai-using-x-first-to-move)
+- [AI using O](#ai-using-o-second-to-move)
+- [AI vs. AI](#ai-using-x-against-ai-using-o)
+- [Challenge the AIs](#do-you-want-to-challenge-the-ais)
+
 ## Objectives
 Starting from the professor's strategy we tried to improve it, testing how artificial intelligence behaved in different scenarios.
 
