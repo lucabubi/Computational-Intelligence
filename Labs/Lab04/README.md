@@ -24,7 +24,7 @@ During the training phase our AI plays against an opponent using a random strate
 
 We made AI train for 1_000_000 games to be able to have an optimal dictionary capable of suggesting the best move in every situation, covering all possible scenarios that could happen. For a simple game like tic-tac-toe we can assume to have visited all possible states multiple times.
 
-After a huge amount of tests conducted during the development we found that the best results were achived using _epsilon_ = 0.003 and as _Reward Policy_:
+After a huge amount of tests conducted during the development we found that the best results were achieved using, during trining phase,  _epsilon_ = 0.003 and as _Reward Policy_:
 
 | Player  | Win  | Lose | Draw |
 |---------|------|------|------|
