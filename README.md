@@ -1,7 +1,7 @@
 # Computational Intelligence 2023/2024
 [Barbato Luca](https://github.com/lucabubi) - s320213
 
-This repository contains the work made for the Computational Intelligence course at Polito.
+This repository contains the work made for the Computational Intelligence course at Polito for the academic year 2023/2024.
 
 READMEs in each subfolder state the workflow done.
 
@@ -13,6 +13,8 @@ READMEs in each subfolder state the workflow done.
     - Nim.ipynb
   - Lab03
     - lab3.ipynb
+  - Lab04
+    - TicTacToe.ipynb
 
 ## Collaborations
 I worked along with:
