@@ -12,7 +12,7 @@
 Starting from the professor's strategy we tried to improve it, testing how artificial intelligence behaved in different scenarios.
 
 ## Training Phase (for both X and O)
-Two different dictionaries were used, one for AI using x and the other one for the AI using O, as stated here:
+Two different dictionaries were used, one for AI using X and the other one for the AI using O, as stated here:
 
 ```python
 # Creation of 2 dictionaries for storing X AI and O AI players training
