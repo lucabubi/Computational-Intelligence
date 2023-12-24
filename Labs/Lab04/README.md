@@ -59,8 +59,7 @@ So we decided to create a training program exclusively for O, with a dictionary 
 Initially the training phase (for O) was the same as for X.
 The results were not very satisfying. We managed to reduce the losses a bit, but the AI was still far from being a very good player.
 
-The major weakness come out when we tried to make it play against AI using X with optimal moves (the one we just trained before!).
-10_000 test games were conducted and they ended all with a lose.
+The major weakness come out when we tried to make it play against AI using X with optimal moves (the one we just trained before!): 10_000 test games were conducted and they ended all with a lose.
 This experiment highlighted how O did not know the strategy to draw against a perfect X. This is because, in the 1,000,000 randomly played training games, the times the computer randomly plays the best moves for X and O's best moves to draw are too few, or not highly valued enough, for O to learn and memorize the optimal defensive strategy in its dictionary.
 
 That's why we decided to change its Reward Policy during the training phase. As stated above, we did a huge amount of tests and we chose the parameters that gave us the best statistics.
