@@ -7,6 +7,7 @@
 - [AI using O](#ai-using-o-second-to-move)
 - [AI vs. AI](#ai-using-x-against-ai-using-o)
 - [Challenge the AIs](#do-you-want-to-challenge-the-ais)
+- [Peer Review](#peer-review-done)
 
 ## Objectives
 Starting from the professor's strategy we tried to improve it, testing how artificial intelligence behaved in different scenarios.
@@ -88,3 +89,7 @@ After finishing our experiments, we thought it could be fun having the possibili
 They are unbeatable...
 
 The few combinations that O fails to block are so rare and suboptimal that any human player would never play them, effectively being unable to beat the AIs (both with X and O) ever!
+
+## Peer Review Done
+- [Matassa Paola s317632](https://github.com/PaolaMts/ComputationalIntelligence/issues/11)
+- [Masetta Dimitri s306130](https://github.com/dimi-it/computational-intelligence/issues/4)
