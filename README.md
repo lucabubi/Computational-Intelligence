@@ -4,6 +4,8 @@
 This repository contains the work made for the Computational Intelligence course at Polito for the academic year 2023/2024.
 
 READMEs in each subfolder state the workflow done.
+For a complete report, please refer to [Report.pdf](https://github.com/lucabubi/Computational-Intelligence/blob/main/Report.pdf)
+
 
 ## Labs Overview
 - Labs
