@@ -8,7 +8,7 @@ READMEs in each subfolder state the workflow done.
 ## Labs Overview
 - Labs
   - Lab01
-    - A*.ipynb
+    - A_star.ipynb
   - Lab02
     - Nim.ipynb
   - Lab03
